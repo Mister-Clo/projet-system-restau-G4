@@ -1,0 +1,40 @@
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CoreCompileInputs.cache
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe.config
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.pdb
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.dll
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.pdb
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csprojAssemblyReference.cache
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CopyComplete
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.exe
+G:\Document\UCAC-ICAM\Projet\Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.pdb
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe.config
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.pdb
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.dll
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.pdb
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csprojAssemblyReference.cache
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CoreCompileInputs.cache
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CopyComplete
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.exe
+G:\Document\UCAC-ICAM\Projet\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.pdb
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe.config
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.pdb
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.dll
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.pdb
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csprojAssemblyReference.cache
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CoreCompileInputs.cache
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CopyComplete
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.exe
+D:\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.pdb
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe.config
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.exe
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Cuisine.pdb
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.dll
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\bin\Debug\Class.pdb
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csprojAssemblyReference.cache
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CoreCompileInputs.cache
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.csproj.CopyComplete
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.exe
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\Cuisine\Cuisine\obj\Debug\Cuisine.pdb

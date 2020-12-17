@@ -1,0 +1,9 @@
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\bin\Debug\ClassTests.dll
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\bin\Debug\ClassTests.pdb
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\obj\Debug\ClassTests.csprojAssemblyReference.cache
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\obj\Debug\ClassTests.csproj.CoreCompileInputs.cache
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\obj\Debug\ClassTests.csproj.CopyComplete
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\obj\Debug\ClassTests.dll
+G:\YEAR 3\BLOC 2\Projet Programmation système\Projet Prog. Système\Plan B\Prog-Sys-Master-Chef-Infos\LIVRABLES FINAUX\SOURCE\salle\ClassTests\obj\Debug\ClassTests.pdb
